@@ -22,13 +22,13 @@ export default function Hero() {
             </span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            Product Marketer & AI Builder -{" "}
+            Product Marketer & GTM Strategist -{" "}
             <span className="text-zinc-500">
-              GTM, Positioning & AI Products.
+              Positioning, Launch & Pricing.
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
-            Product marketer who also ships AI products. 4+ years shipping GTM, positioning, and pricing for new product lines, plus building AI-powered tools like SwipeHire (AI job matching) and NSE-Bot. Anthropic certified. M.S. Marketing Analytics with a Pricing specialization - Simon Business School. Based in Boston, MA.
+            Product marketer and GTM strategist who also ships AI products. Leading positioning and launch at Sensata (+35% qualified leads, $2M+ first-year pipeline) while building AI-native products like SwipeHire (live) and NSE-Bot on the side. Anthropic certified. M.S. Marketing Analytics with a Pricing specialization - Simon Business School. Based in Boston, MA.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -51,20 +51,10 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
-          <div className="mt-8 flex flex-wrap gap-2">
+
+          <div className="mt-6 flex flex-wrap gap-2">
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              GTM at Sensata
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              SwipeHire (live)
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              Anthropic Certified
-            </span>
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              GTM at Sensata
+              +35% qualified leads at Sensata
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               SwipeHire (live)

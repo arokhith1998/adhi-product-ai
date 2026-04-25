@@ -7,7 +7,7 @@ export default function About() {
       <div className="mt-6 grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-4 text-zinc-300 leading-relaxed">
           <p>
-            I bring products to market and build them - <strong className="text-zinc-100">product marketing</strong>, <strong className="text-zinc-100">product management</strong>, <strong className="text-zinc-100">GTM strategy</strong>, and <strong className="text-zinc-100">AI-driven products</strong>. Shipping positioning and launch plans at Sensata, plus building AI tools like SwipeHire and NSE-Bot on the side.
+            I bring products to market, and I build them - <strong className="text-zinc-100">product marketing</strong>, <strong className="text-zinc-100">GTM</strong>, <strong className="text-zinc-100">positioning</strong>, and <strong className="text-zinc-100">AI product building</strong>. Shipping launch plans at Sensata that generated +35% qualified leads and $2M+ first-year pipeline, while shipping AI tools like SwipeHire (AI job matching) and NSE-Bot (paper-trading on live signals).
           </p>
           <p>
             I&apos;m drawn to the problems where the answer sits at the
@@ -31,7 +31,7 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Focus</dt>
-                <dd className="text-zinc-100">Product · GTM · AI</dd>
+                <dd className="text-zinc-100">PMM · GTM · AI</dd>
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Building</dt>

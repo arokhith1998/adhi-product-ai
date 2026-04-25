@@ -1,3 +1,3 @@
-# Adhi — Product + AI Portfolio
+# Adhi - Product × AI Portfolio
 
-Product Marketing, Product Management and AI-powered products.
+Product Marketing and GTM with AI product building.
